@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ismile-qr-dashboard/static/css/main.2c9b04ac.css",
+    "main.js": "/ismile-qr-dashboard/static/js/main.2c185f73.js",
+    "static/js/453.ec7b4454.chunk.js": "/ismile-qr-dashboard/static/js/453.ec7b4454.chunk.js",
+    "static/media/ismile-logo.png": "/ismile-qr-dashboard/static/media/ismile-logo.f1ed432e9377b0570302.png",
+    "index.html": "/ismile-qr-dashboard/index.html",
+    "main.2c9b04ac.css.map": "/ismile-qr-dashboard/static/css/main.2c9b04ac.css.map",
+    "main.2c185f73.js.map": "/ismile-qr-dashboard/static/js/main.2c185f73.js.map",
+    "453.ec7b4454.chunk.js.map": "/ismile-qr-dashboard/static/js/453.ec7b4454.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9b04ac.css",
+    "static/js/main.2c185f73.js"
+  ]
+}
