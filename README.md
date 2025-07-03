@@ -1,5 +1,6 @@
 # iSmile Health Dashboard
-🔗 **Live Demo:** [Click here to open the dashboard](https://uganda1-creat.github.io/ismile-qr-dashboard/)
+🔗 **Live Demo:** [Click to view dashboard](https://uganda1-creat.github.io/ismile-qr-dashboard)
+
 
 
 An interactive health dashboard prototype developed by **Samin Bayat** for MVP testing and pilot use in health programs such as Medical Aid Uganda.
